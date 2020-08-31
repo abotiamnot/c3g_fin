@@ -1,4 +1,4 @@
-The following set of scripts were written under the project, which's agenda was to generate an automated method to maintain the C3G's software stack. 
+The following set of scripts were written under the project, which's agenda was to generate an automated method to maintain the C3G's so 
 
 The independent scripts in the following project are -
 
@@ -30,3 +30,5 @@ USAGE: python fullstack_generator.py <PATH> ( Can be called through CLI )
 
 INFO: Driver script to run pythonSearcher.py for a specific software. 
 USAGE: python metadata_helper.py <SOFTWARE_NAME> <PATH_TO_SOFTSTACK> ( Can be called through CLI )
+
+The PR for the same can be found here - https://bitbucket.org/mugqic/genpipes/pull-requests/181/soft-jsondb-gsoc2020/
