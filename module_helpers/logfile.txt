@@ -1,0 +1,580 @@
+LOG FILE GENERATED ON Sun Jul 26 05:00:05 2020
+Sun Jul 26 05:00:05 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Sun Jul 26 05:00:06 2020 - Message @ abyss - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Sun Jul 26 05:00:06 2020 - Not Found @ abyss - Did not find the following ['Developer docs', 'VERSIONS_AVAILABLE', 'Documentation', 'Homepage']
+Wed Aug 12 22:30:13 2020 - READY - Scraping -f
+Wed Aug 12 22:30:16 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Wed Aug 12 22:55:30 2020 - READY - Scraping abyss
+Wed Aug 12 22:55:33 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Wed Aug 12 22:55:33 2020 - Message @ abyss - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Wed Aug 12 22:55:33 2020 - Not Found @ abyss - Did not find the following []
+Sat Aug 15 01:16:32 2020 - READY - Scraping abyss
+Sat Aug 15 01:16:35 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Sat Aug 15 01:16:35 2020 - Message @ abyss - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Sat Aug 15 01:16:35 2020 - Not Found @ abyss - Did not find the following []
+Sat Aug 15 01:36:40 2020 - READY - Scraping amos
+Sat Aug 15 01:36:42 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Sat Aug 15 01:36:43 2020 - Message @ amos - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Sat Aug 15 01:36:43 2020 - Not Found @ amos - Did not find the following []
+Sat Aug 15 01:36:43 2020 - READY - Scraping abyss
+Sat Aug 15 01:36:45 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Sat Aug 15 01:36:45 2020 - Message @ abyss - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Sat Aug 15 01:36:45 2020 - Not Found @ abyss - Did not find the following []
+Sat Aug 15 02:09:15 2020 - READY - Scraping pandoc
+Sat Aug 15 02:09:17 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:29 2020 - READY - Scraping igv
+Fri Aug 14 16:50:34 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:34 2020 - Message @ igv - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:50:34 2020 - READY - Scraping mugqic_pipelines
+Fri Aug 14 16:50:36 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:36 2020 - READY - Scraping anaconda
+Fri Aug 14 16:50:37 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:39 2020 - READY - Scraping ucsc
+Fri Aug 14 16:50:40 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:41 2020 - READY - Scraping SPAdes
+Fri Aug 14 16:50:42 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:42 2020 - Message @ spades - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:50:43 2020 - READY - Scraping gemini
+Fri Aug 14 16:50:44 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:44 2020 - Message @ gemini - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:50:45 2020 - READY - Scraping GenomeTools
+Fri Aug 14 16:50:46 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:46 2020 - Message @ genometools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:50:46 2020 - READY - Scraping Accurity
+Fri Aug 14 16:50:47 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:48 2020 - READY - Scraping SeqKit
+Fri Aug 14 16:50:49 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:49 2020 - Message @ seqkit - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:50:49 2020 - READY - Scraping sambamba
+Fri Aug 14 16:50:51 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:51 2020 - Message @ sambamba - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:50:52 2020 - READY - Scraping ViennaRNA
+Fri Aug 14 16:50:53 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:53 2020 - Message @ viennarna - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:50:54 2020 - READY - Scraping SplAdder
+Fri Aug 14 16:50:55 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:56 2020 - READY - Scraping SMRTLink
+Fri Aug 14 16:50:57 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:57 2020 - READY - Scraping QT
+Fri Aug 14 16:50:59 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:50:59 2020 - READY - Scraping JAGS
+Fri Aug 14 16:51:00 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:01 2020 - READY - Scraping python
+Fri Aug 14 16:51:02 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:03 2020 - READY - Scraping blast
+Fri Aug 14 16:51:04 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:04 2020 - Message @ blast - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:05 2020 - READY - Scraping FastQValidator
+Fri Aug 14 16:51:06 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:07 2020 - READY - Scraping fastqc
+Fri Aug 14 16:51:08 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:08 2020 - Message @ fastqc - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:08 2020 - READY - Scraping SCoNEs
+Fri Aug 14 16:51:09 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:09 2020 - READY - Scraping TransDecoder
+Fri Aug 14 16:51:11 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:11 2020 - Message @ transdecoder - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:11 2020 - READY - Scraping wgs-assembler
+Fri Aug 14 16:51:13 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:13 2020 - Message @ wgs-assembler - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:13 2020 - READY - Scraping tools
+Fri Aug 14 16:51:14 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:14 2020 - READY - Scraping minimap2
+Fri Aug 14 16:51:15 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:16 2020 - Message @ minimap2 - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:16 2020 - READY - Scraping vcf2db
+Fri Aug 14 16:51:17 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:17 2020 - Message @ vcf2db - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:18 2020 - READY - Scraping freebayes
+Fri Aug 14 16:51:19 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:19 2020 - Message @ freebayes - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:19 2020 - READY - Scraping ASCAT
+Fri Aug 14 16:51:21 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:21 2020 - Message @ ascat - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:21 2020 - READY - Scraping bedops
+Fri Aug 14 16:51:22 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:22 2020 - Message @ bedops - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:23 2020 - READY - Scraping beagle
+Fri Aug 14 16:51:24 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:24 2020 - Message @ beagle - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:26 2020 - READY - Scraping kaiju
+Fri Aug 14 16:51:27 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:27 2020 - Message @ kaiju - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:27 2020 - READY - Scraping exonerate
+Fri Aug 14 16:51:29 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:29 2020 - Message @ exonerate - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:29 2020 - READY - Scraping Quast
+Fri Aug 14 16:51:30 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:30 2020 - Message @ quast - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:31 2020 - READY - Scraping mpich
+Fri Aug 14 16:51:33 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:33 2020 - READY - Scraping mugqic_tools
+Fri Aug 14 16:51:34 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:35 2020 - READY - Scraping VarScan
+Fri Aug 14 16:51:36 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:36 2020 - Message @ varscan - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:36 2020 - READY - Scraping fgbio
+Fri Aug 14 16:51:37 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:37 2020 - Message @ fgbio - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:38 2020 - READY - Scraping tabix
+Fri Aug 14 16:51:39 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:39 2020 - Message @ tabix - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:39 2020 - READY - Scraping weblogo
+Fri Aug 14 16:51:40 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:41 2020 - Message @ weblogo - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:41 2020 - READY - Scraping TRF
+Fri Aug 14 16:51:42 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:42 2020 - Message @ trf - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:42 2020 - READY - Scraping ABySS
+Fri Aug 14 16:51:44 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:44 2020 - Message @ abyss - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:44 2020 - READY - Scraping GangSTR
+Fri Aug 14 16:51:45 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:46 2020 - READY - Scraping StringTie
+Fri Aug 14 16:51:47 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:47 2020 - Message @ stringtie - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:48 2020 - READY - Scraping gemBS
+Fri Aug 14 16:51:49 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:49 2020 - Message @ gembs - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:50 2020 - READY - Scraping breakseq2
+Fri Aug 14 16:51:51 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:51 2020 - Message @ breakseq2 - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:52 2020 - READY - Scraping ShortStack
+Fri Aug 14 16:51:53 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:53 2020 - Message @ shortstack - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:53 2020 - READY - Scraping butter
+Fri Aug 14 16:51:54 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:56 2020 - READY - Scraping demuxlet
+Fri Aug 14 16:51:57 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:57 2020 - Message @ demuxlet - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:51:58 2020 - READY - Scraping AMOS
+Fri Aug 14 16:51:59 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:51:59 2020 - Message @ amos - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:00 2020 - READY - Scraping bio-playground
+Fri Aug 14 16:52:01 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:01 2020 - READY - Scraping CTPR
+Fri Aug 14 16:52:02 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:03 2020 - READY - Scraping zlib
+Fri Aug 14 16:52:05 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:05 2020 - READY - Scraping seqtk
+Fri Aug 14 16:52:06 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:06 2020 - Message @ seqtk - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:06 2020 - READY - Scraping MiXCR
+Fri Aug 14 16:52:07 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:08 2020 - READY - Scraping LUMPY-SV
+Fri Aug 14 16:52:09 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:09 2020 - Message @ lumpy-sv - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:09 2020 - READY - Scraping bwa
+Fri Aug 14 16:52:11 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:11 2020 - Message @ bwa - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:11 2020 - READY - Scraping popoolation2
+Fri Aug 14 16:52:13 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:13 2020 - READY - Scraping ghostscript
+Fri Aug 14 16:52:14 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:14 2020 - READY - Scraping snpEff
+Fri Aug 14 16:52:15 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:15 2020 - Message @ snpeff - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:16 2020 - READY - Scraping RepeatMasker
+Fri Aug 14 16:52:17 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:17 2020 - Message @ repeatmasker - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:17 2020 - READY - Scraping bowtie2
+Fri Aug 14 16:52:19 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:19 2020 - Message @ bowtie2 - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:19 2020 - READY - Scraping picard
+Fri Aug 14 16:52:20 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:21 2020 - Message @ picard - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:21 2020 - READY - Scraping InterOp
+Fri Aug 14 16:52:22 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:22 2020 - READY - Scraping snap
+Fri Aug 14 16:52:23 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:23 2020 - Message @ snap - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:24 2020 - READY - Scraping smrtanalysis
+Fri Aug 14 16:52:25 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:25 2020 - READY - Scraping Manta
+Fri Aug 14 16:52:27 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:27 2020 - Message @ manta - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:27 2020 - READY - Scraping sparsehash
+Fri Aug 14 16:52:28 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:28 2020 - READY - Scraping kentUtils
+Fri Aug 14 16:52:30 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:30 2020 - READY - Scraping cellranger-atac
+Fri Aug 14 16:52:31 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:31 2020 - READY - Scraping FastTree
+Fri Aug 14 16:52:33 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:33 2020 - Message @ fasttree - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:33 2020 - READY - Scraping ray
+Fri Aug 14 16:52:34 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:34 2020 - Message @ ray - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:35 2020 - READY - Scraping deepTools
+Fri Aug 14 16:52:36 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:36 2020 - Message @ deeptools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:36 2020 - READY - Scraping simple_sv_annotation
+Fri Aug 14 16:52:37 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:37 2020 - Message @ simple_sv_annotation - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:38 2020 - READY - Scraping duk
+Fri Aug 14 16:52:39 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:39 2020 - READY - Scraping scalpel
+Fri Aug 14 16:52:40 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:41 2020 - Message @ scalpel - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:41 2020 - READY - Scraping STAR-Fusion
+Fri Aug 14 16:52:42 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:42 2020 - Message @ star-fusion - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:42 2020 - READY - Scraping star
+Fri Aug 14 16:52:44 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:44 2020 - Message @ star - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:44 2020 - READY - Scraping bedtools
+Fri Aug 14 16:52:45 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:45 2020 - Message @ bedtools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:45 2020 - READY - Scraping parallel
+Fri Aug 14 16:52:47 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:47 2020 - READY - Scraping MUMmer
+Fri Aug 14 16:52:48 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:48 2020 - Message @ mummer - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:48 2020 - READY - Scraping fastx
+Fri Aug 14 16:52:50 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:50 2020 - READY - Scraping bcftools
+Fri Aug 14 16:52:51 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:52 2020 - Message @ bcftools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:52 2020 - READY - Scraping circos
+Fri Aug 14 16:52:53 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:53 2020 - Message @ circos - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:53 2020 - READY - Scraping bcbio.variation
+Fri Aug 14 16:52:55 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:55 2020 - READY - Scraping hicpro
+Fri Aug 14 16:52:56 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:56 2020 - READY - Scraping Stacks
+Fri Aug 14 16:52:58 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:52:58 2020 - Message @ stacks - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:52:58 2020 - READY - Scraping perl
+Fri Aug 14 16:52:59 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:00 2020 - READY - Scraping MELT
+Fri Aug 14 16:53:01 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:01 2020 - Message @ melt - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:02 2020 - READY - Scraping emboss
+Fri Aug 14 16:53:03 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:03 2020 - Message @ emboss - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:04 2020 - READY - Scraping VIP
+Fri Aug 14 16:53:05 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:05 2020 - READY - Scraping rnammer
+Fri Aug 14 16:53:07 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:07 2020 - READY - Scraping VarDictJava
+Fri Aug 14 16:53:08 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:09 2020 - READY - Scraping MACS2
+Fri Aug 14 16:53:10 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:10 2020 - Message @ macs2 - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:10 2020 - READY - Scraping ivar
+Fri Aug 14 16:53:12 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:12 2020 - Message @ ivar - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:12 2020 - READY - Scraping tophat
+Fri Aug 14 16:53:13 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:13 2020 - Message @ tophat - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:14 2020 - READY - Scraping 3DChromatin_ReplicateQC
+Fri Aug 14 16:53:15 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:16 2020 - READY - Scraping velvet
+Fri Aug 14 16:53:17 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:17 2020 - Message @ velvet - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:17 2020 - READY - Scraping prinseq-lite
+Fri Aug 14 16:53:18 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:19 2020 - READY - Scraping kraken2
+Fri Aug 14 16:53:20 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:20 2020 - Message @ kraken2 - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:20 2020 - READY - Scraping ChromImpute
+Fri Aug 14 16:53:22 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:22 2020 - READY - Scraping R_Bioconductor
+Fri Aug 14 16:53:23 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:24 2020 - READY - Scraping AffymetrixApt
+Fri Aug 14 16:53:25 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:25 2020 - READY - Scraping vt
+Fri Aug 14 16:53:26 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:26 2020 - Message @ vt - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:27 2020 - READY - Scraping cutadapt
+Fri Aug 14 16:53:28 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:28 2020 - Message @ cutadapt - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:28 2020 - READY - Scraping vcftools
+Fri Aug 14 16:53:30 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:30 2020 - Message @ vcftools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:31 2020 - READY - Scraping mirdeep2
+Fri Aug 14 16:53:32 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:32 2020 - Message @ mirdeep2 - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:32 2020 - READY - Scraping Athena
+Fri Aug 14 16:53:34 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:34 2020 - READY - Scraping homer
+Fri Aug 14 16:53:35 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:35 2020 - Message @ homer - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:35 2020 - READY - Scraping cellranger-dna
+Fri Aug 14 16:53:37 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:37 2020 - READY - Scraping trinity
+Fri Aug 14 16:53:38 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:38 2020 - Message @ trinity - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:38 2020 - READY - Scraping Ruby
+Fri Aug 14 16:53:40 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:40 2020 - READY - Scraping vsearch
+Fri Aug 14 16:53:41 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:41 2020 - Message @ vsearch - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:42 2020 - READY - Scraping ea-utils
+Fri Aug 14 16:53:43 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:43 2020 - Message @ ea-utils - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:43 2020 - READY - Scraping verifyBamID
+Fri Aug 14 16:53:44 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:44 2020 - Message @ verifybamid - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:45 2020 - READY - Scraping trinotate
+Fri Aug 14 16:53:46 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:46 2020 - Message @ trinotate - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:46 2020 - READY - Scraping Platypus
+Fri Aug 14 16:53:47 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:47 2020 - READY - Scraping FusionCatcher
+Fri Aug 14 16:53:49 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:49 2020 - Message @ fusioncatcher - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:49 2020 - READY - Scraping Strelka2
+Fri Aug 14 16:53:50 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:50 2020 - READY - Scraping MeFiT
+Fri Aug 14 16:53:52 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:52 2020 - READY - Scraping gcc
+Fri Aug 14 16:53:53 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:53 2020 - READY - Scraping chicago
+Fri Aug 14 16:53:54 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:55 2020 - READY - Scraping fastp
+Fri Aug 14 16:53:56 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:56 2020 - Message @ fastp - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:53:57 2020 - READY - Scraping MACS
+Fri Aug 14 16:53:58 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:53:58 2020 - READY - Scraping ATLAS
+Fri Aug 14 16:54:00 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:01 2020 - READY - Scraping LAST
+Fri Aug 14 16:54:02 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:04 2020 - Message @ last - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:05 2020 - READY - Scraping gemLibrary
+Fri Aug 14 16:54:06 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:06 2020 - READY - Scraping SURPI
+Fri Aug 14 16:54:08 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:08 2020 - READY - Scraping pigz
+Fri Aug 14 16:54:09 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:09 2020 - READY - Scraping bamtools
+Fri Aug 14 16:54:11 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:11 2020 - Message @ bamtools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:11 2020 - READY - Scraping duphold
+Fri Aug 14 16:54:13 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:13 2020 - Message @ duphold - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:13 2020 - READY - Scraping kmergenie
+Fri Aug 14 16:54:15 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:15 2020 - Message @ kmergenie - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:15 2020 - READY - Scraping prodigal
+Fri Aug 14 16:54:17 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:17 2020 - Message @ prodigal - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:17 2020 - READY - Scraping pipeline
+Fri Aug 14 16:54:18 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:18 2020 - READY - Scraping cd-hit
+Fri Aug 14 16:54:20 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:20 2020 - Message @ cd-hit - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:20 2020 - READY - Scraping NGSCheckMate
+Fri Aug 14 16:54:21 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:21 2020 - READY - Scraping Nanopolish
+Fri Aug 14 16:54:23 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:23 2020 - Message @ nanopolish - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:23 2020 - READY - Scraping breakdancer
+Fri Aug 14 16:54:25 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:25 2020 - Message @ breakdancer - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:25 2020 - READY - Scraping mutect
+Fri Aug 14 16:54:26 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:27 2020 - READY - Scraping Medaka
+Fri Aug 14 16:54:28 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:28 2020 - Message @ medaka - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:28 2020 - READY - Scraping rsem
+Fri Aug 14 16:54:30 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:30 2020 - Message @ rsem - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:30 2020 - READY - Scraping HDF5
+Fri Aug 14 16:54:32 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:32 2020 - READY - Scraping PBSuite
+Fri Aug 14 16:54:33 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:33 2020 - READY - Scraping Smoove
+Fri Aug 14 16:54:35 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:35 2020 - Message @ smoove - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:35 2020 - READY - Scraping Canu
+Fri Aug 14 16:54:37 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:37 2020 - Message @ canu - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:37 2020 - READY - Scraping RAPSearch2
+Fri Aug 14 16:54:38 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:38 2020 - READY - Scraping juicer
+Fri Aug 14 16:54:40 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:40 2020 - READY - Scraping HiCUP
+Fri Aug 14 16:54:42 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:42 2020 - Message @ hicup - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:43 2020 - READY - Scraping kallisto
+Fri Aug 14 16:54:44 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:44 2020 - Message @ kallisto - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:45 2020 - READY - Scraping signalp
+Fri Aug 14 16:54:46 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:46 2020 - READY - Scraping hmmer
+Fri Aug 14 16:54:48 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:48 2020 - Message @ hmmer - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:48 2020 - READY - Scraping Pascal
+Fri Aug 14 16:54:49 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:50 2020 - READY - Scraping SVTyper
+Fri Aug 14 16:54:51 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:51 2020 - Message @ svtyper - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:54:51 2020 - READY - Scraping gcta
+Fri Aug 14 16:54:53 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:53 2020 - READY - Scraping pbs-drmaa
+Fri Aug 14 16:54:55 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:55 2020 - READY - Scraping bcbio.variation.recall
+Fri Aug 14 16:54:57 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:57 2020 - READY - Scraping aspera-connect
+Fri Aug 14 16:54:58 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:54:59 2020 - READY - Scraping lapack
+Fri Aug 14 16:55:00 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:01 2020 - READY - Scraping circos-tools
+Fri Aug 14 16:55:02 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:02 2020 - Message @ circos-tools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:03 2020 - READY - Scraping skewer
+Fri Aug 14 16:55:04 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:04 2020 - Message @ skewer - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:05 2020 - READY - Scraping cellranger
+Fri Aug 14 16:55:06 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:07 2020 - READY - Scraping cufflinks
+Fri Aug 14 16:55:08 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:08 2020 - Message @ cufflinks - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:09 2020 - READY - Scraping HiCPlotter
+Fri Aug 14 16:55:10 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:10 2020 - READY - Scraping miniconda2
+Fri Aug 14 16:55:11 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:12 2020 - READY - Scraping gnuplot
+Fri Aug 14 16:55:13 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:13 2020 - READY - Scraping mafft
+Fri Aug 14 16:55:14 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:14 2020 - Message @ mafft - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:15 2020 - READY - Scraping CASPER
+Fri Aug 14 16:55:16 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:16 2020 - READY - Scraping Prokka
+Fri Aug 14 16:55:18 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:18 2020 - Message @ prokka - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:18 2020 - READY - Scraping bowtie
+Fri Aug 14 16:55:20 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:20 2020 - Message @ bowtie - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:20 2020 - READY - Scraping htslib
+Fri Aug 14 16:55:21 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:21 2020 - Message @ htslib - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:22 2020 - READY - Scraping tmhmm
+Fri Aug 14 16:55:23 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:23 2020 - READY - Scraping autoconf
+Fri Aug 14 16:55:25 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:25 2020 - READY - Scraping jellyfish
+Fri Aug 14 16:55:26 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:27 2020 - READY - Scraping longranger
+Fri Aug 14 16:55:28 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:28 2020 - READY - Scraping EPACTS
+Fri Aug 14 16:55:30 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:30 2020 - READY - Scraping MultiQC
+Fri Aug 14 16:55:31 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:32 2020 - Message @ multiqc - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:32 2020 - READY - Scraping igvtools
+Fri Aug 14 16:55:33 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:33 2020 - Message @ igvtools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:35 2020 - READY - Scraping GenAP_Pipes
+Fri Aug 14 16:55:37 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:38 2020 - READY - Scraping CNVkit
+Fri Aug 14 16:55:39 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:39 2020 - Message @ cnvkit - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:40 2020 - READY - Scraping samtools
+Fri Aug 14 16:55:41 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:41 2020 - Message @ samtools - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:42 2020 - READY - Scraping rnaseqc
+Fri Aug 14 16:55:43 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:44 2020 - READY - Scraping qualimap
+Fri Aug 14 16:55:45 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:45 2020 - Message @ qualimap - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:45 2020 - READY - Scraping AGE
+Fri Aug 14 16:55:47 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:47 2020 - READY - Scraping nextclip
+Fri Aug 14 16:55:48 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:48 2020 - READY - Scraping openssl
+Fri Aug 14 16:55:50 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:51 2020 - READY - Scraping mugqic_R_packages
+Fri Aug 14 16:55:52 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:52 2020 - READY - Scraping GenomeAnalysisTK
+Fri Aug 14 16:55:53 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:54 2020 - READY - Scraping sratoolkit
+Fri Aug 14 16:55:55 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:55 2020 - READY - Scraping bash
+Fri Aug 14 16:55:56 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:57 2020 - READY - Scraping FLASH
+Fri Aug 14 16:55:58 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:55:58 2020 - Message @ flash - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:55:59 2020 - READY - Scraping pandoc
+Fri Aug 14 16:56:00 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:01 2020 - READY - Scraping boost
+Fri Aug 14 16:56:02 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:03 2020 - READY - Scraping supernova
+Fri Aug 14 16:56:04 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:06 2020 - READY - Scraping Conpair
+Fri Aug 14 16:56:08 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:08 2020 - READY - Scraping vcfanno
+Fri Aug 14 16:56:09 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:10 2020 - Message @ vcfanno - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:11 2020 - READY - Scraping gsort
+Fri Aug 14 16:56:12 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:12 2020 - Message @ gsort - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:13 2020 - READY - Scraping libStatGen
+Fri Aug 14 16:56:14 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:14 2020 - Message @ libstatgen - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:15 2020 - READY - Scraping vcflib
+Fri Aug 14 16:56:16 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:16 2020 - Message @ vcflib - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:17 2020 - READY - Scraping ExpansionHunterDenovo
+Fri Aug 14 16:56:18 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:19 2020 - Message @ expansionhunterdenovo - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:19 2020 - READY - Scraping OpenBLAS
+Fri Aug 14 16:56:21 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:22 2020 - READY - Scraping java
+Fri Aug 14 16:56:23 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:23 2020 - READY - Scraping mosdepth
+Fri Aug 14 16:56:24 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:24 2020 - Message @ mosdepth - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:25 2020 - READY - Scraping MUSCLE
+Fri Aug 14 16:56:26 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:26 2020 - Message @ muscle - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:27 2020 - READY - Scraping trimmomatic
+Fri Aug 14 16:56:28 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:28 2020 - Message @ trimmomatic - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:28 2020 - READY - Scraping idba
+Fri Aug 14 16:56:30 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:30 2020 - Message @ idba - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:30 2020 - READY - Scraping bvatools
+Fri Aug 14 16:56:31 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:32 2020 - READY - Scraping Delly
+Fri Aug 14 16:56:33 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:33 2020 - Message @ delly - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:34 2020 - READY - Scraping bambam
+Fri Aug 14 16:56:35 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:35 2020 - READY - Scraping genpipes
+Fri Aug 14 16:56:37 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:38 2020 - READY - Scraping bismark
+Fri Aug 14 16:56:40 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:40 2020 - Message @ bismark - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:40 2020 - READY - Scraping samblaster
+Fri Aug 14 16:56:41 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:41 2020 - Message @ samblaster - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:41 2020 - READY - Scraping usearch
+Fri Aug 14 16:56:43 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:43 2020 - READY - Scraping SvABA
+Fri Aug 14 16:56:45 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:45 2020 - Message @ svaba - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:45 2020 - READY - Scraping BisSNP
+Fri Aug 14 16:56:46 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:46 2020 - READY - Scraping Octopus
+Fri Aug 14 16:56:48 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:48 2020 - Message @ octopus - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:48 2020 - READY - Scraping sphinx
+Fri Aug 14 16:56:49 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:50 2020 - READY - Scraping KronaTools
+Fri Aug 14 16:56:51 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:51 2020 - READY - Scraping hicup
+Fri Aug 14 16:56:52 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:52 2020 - Message @ hicup - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:53 2020 - READY - Scraping OpenMPI
+Fri Aug 14 16:56:54 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:54 2020 - READY - Scraping WHAM
+Fri Aug 14 16:56:56 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:56 2020 - Message @ wham - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
+Fri Aug 14 16:56:58 2020 - READY - Scraping bwakit
+Fri Aug 14 16:56:59 2020 - INITIALIZATION - Database scraped from Bioconda Index
+Fri Aug 14 16:56:59 2020 - Message @ bwakit - Extracted the following ['CHANNEL_LINK', 'NAME', 'INFO', 'License']
