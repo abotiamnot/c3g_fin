@@ -4,7 +4,7 @@
 
 The following set of scripts were written under the project, which's agenda was to generate an automated method to maintain the current software stack. 
 
-### Indepdent Scripts
+### Independent Scripts
 
 #### pythonSearcher.py
 
